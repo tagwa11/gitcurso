@@ -1,0 +1,2 @@
+# gitcurso
+mi primer proyecto
